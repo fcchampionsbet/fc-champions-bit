@@ -1,7 +1,7 @@
 "use client"
 import TimeLine from "@/components/TimeLine"
 import React from "react"
-import {TimeLineFullData} from "./data"
+import TimeLineFullData from "./data"
 import {TimeLineType} from "@/types"
 import {Element} from "react-scroll"
 

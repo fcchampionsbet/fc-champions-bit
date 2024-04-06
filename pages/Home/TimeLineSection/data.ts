@@ -1,6 +1,6 @@
 import {TimeLineType} from "@/types"
 
-export const TimeLineFullData: TimeLineType[] = [
+const TimeLineFullData: TimeLineType[] = [
   {
     title: {
       phase: "Stage One",
@@ -137,3 +137,5 @@ export const TimeLineFullData: TimeLineType[] = [
     ],
   },
 ]
+
+export default TimeLineFullData

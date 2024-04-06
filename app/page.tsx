@@ -1,4 +1,3 @@
-import PolarChart from "@/components/charts/PolarChart"
 import FeaturesSction from "@/pages/Home/FeaturesSction"
 import HeroSection from "@/pages/Home/HeroSection"
 import NFTSection from "@/pages/Home/NFTSection"
