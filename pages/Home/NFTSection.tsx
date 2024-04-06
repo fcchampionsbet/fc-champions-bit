@@ -14,19 +14,19 @@ const NFTCards = [
     cardName: "l.messi",
     price: "10",
     ownerName: "jon doe",
-    imgUrl: "/images/lionel-messi.jpeg",
+    imgUrl: "/images/lionel-messi.jpg",
   },
   {
     cardName: "c.ronaldo",
     price: "35",
     ownerName: "jon doe",
-    imgUrl: "/images/cristiano-ronaldo.jpeg",
+    imgUrl: "/images/cristiano-ronaldo.jpg",
   },
   {
     cardName: "t.neymar",
     price: "60",
     ownerName: "jon doe",
-    imgUrl: "/images/neymar.jpeg",
+    imgUrl: "/images/neymar.jpg",
   },
 ]
 
