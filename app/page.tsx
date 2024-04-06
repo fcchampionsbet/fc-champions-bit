@@ -1,11 +1,9 @@
 import PolarChart from "@/components/charts/PolarChart"
-import {
-  HeroSection,
-  FeaturesSction,
-  Tokenamic,
-  TImeLineSection,
-  NFTSection,
-} from "@/pages/Home"
+import FeaturesSction from "@/pages/Home/FeaturesSction"
+import HeroSection from "@/pages/Home/HeroSection"
+import NFTSection from "@/pages/Home/NFTSection"
+import TimeLineSection from "@/pages/Home/TimeLineSection"
+import Tokenamic from "@/pages/Home/Tokenamic"
 
 export default function Home() {
   return (
@@ -13,7 +11,7 @@ export default function Home() {
       <HeroSection />
       <FeaturesSction />
       <Tokenamic />
-      <TImeLineSection />
+      <TimeLineSection />
       <NFTSection />
     </main>
   )

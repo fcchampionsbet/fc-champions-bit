@@ -5,7 +5,7 @@ import {TimeLineFullData} from "./data"
 import {TimeLineType} from "@/types"
 import {Element} from "react-scroll"
 
-const TImeLineSection = () => {
+const TimeLineSection = () => {
   return (
     <Element
       name="developmnet stages"
@@ -30,4 +30,4 @@ const TImeLineSection = () => {
   )
 }
 
-export default TImeLineSection
+export default TimeLineSection
